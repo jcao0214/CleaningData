@@ -1,5 +1,5 @@
-# CleaningData
-Folder for Coursera_Getting and Cleaning Data
+# README
+This folder is for Coursera_Getting and Cleaning Data
 
 This folder is creatd to upload files for Coursera Getting and Cleaning data course project.  
 The project is to collect, cleaning and upload a cleaned dataset for later analysis. 
